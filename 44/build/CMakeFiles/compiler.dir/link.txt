@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall CMakeFiles/compiler.dir/main.cpp.o -o ../bin/compiler   -L/home/jack/Desktop/c++WorkSpace/lab/./lib  -Wl,-rpath,/home/jack/Desktop/c++WorkSpace/lab/./lib -lTools ../bin/libFront.a -lIR ../bin/libjsoncpp.a 

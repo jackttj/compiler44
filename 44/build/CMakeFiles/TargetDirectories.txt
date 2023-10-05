@@ -1,0 +1,5 @@
+/home/jack/Desktop/c++WorkSpace/lab/build/CMakeFiles/jsoncpp.dir
+/home/jack/Desktop/c++WorkSpace/lab/build/CMakeFiles/Front.dir
+/home/jack/Desktop/c++WorkSpace/lab/build/CMakeFiles/compiler.dir
+/home/jack/Desktop/c++WorkSpace/lab/build/CMakeFiles/edit_cache.dir
+/home/jack/Desktop/c++WorkSpace/lab/build/CMakeFiles/rebuild_cache.dir
